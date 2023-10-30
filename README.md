@@ -3,8 +3,9 @@
 # __📡 Download (.exe)__
 
 ### 🔴 Mega : [Download](https://mega.nz/file/nYJgBZpJ#uTHNqsX1Y06liCcMJwSWnTuvDVly2RjqtEQA0wjfTys) 
-#### 🔵 VirusTotal : [View Analyze](https://www.virustotal.com/gui/file-analysis/ODc2YmM0MTkyNTE1ZTY4MjkwN2FkZjVmMmRiMTM0NGM6MTY5ODY2NjYyOA==)
-### 📑 compiled with [auto py to exe](https://github.com/brentvollebregt/auto-py-to-exe)=PyInstaller (its easy to decompile)
+### 🟢 VirusTotal (Scan Malwares) : [View Analyze](https://www.virustotal.com/gui/file-analysis/ODc2YmM0MTkyNTE1ZTY4MjkwN2FkZjVmMmRiMTM0NGM6MTY5ODY2NjYyOA==)
+____________________________________________________________________________________________________________________________________________________________
+## 📑 __NOTE:__ Compiled with [auto py to exe](https://github.com/brentvollebregt/auto-py-to-exe)=PyInstaller (its easy to decompile)
 
 
 ## **💉 Injector DLL Kernel | Inject dll for game or app**
