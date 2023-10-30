@@ -6,8 +6,8 @@ import customtkinter as ctk
 import requests
 
 files = {
-    "C:\\DaxInjector\\bg1.png": 'https://cdn.discordapp.com/attachments/1146354940491599933/1168252856982327436/bg1.png',
-    "C:\\DaxInjector\\icon.ico": 'https://cdn.discordapp.com/attachments/1146354940491599933/1168254016485068921/icon.ico'
+    "C:\\DaxInjector\\bg1.png": 'https://github.com/Sandaxxx/DaxInjectorDLL/blob/main/bg1.png',
+    "C:\\DaxInjector\\icon.ico": 'https://github.com/Sandaxxx/DaxInjectorDLL/blob/main/icon.ico'
 }
 
 for path, url in files.items():
