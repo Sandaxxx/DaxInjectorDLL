@@ -6,6 +6,7 @@ ________________________________________________________________________________
 # __📡 Download (.exe)__
 ### 🔴 Mega : [Download](https://mega.nz/file/nYJgBZpJ#uTHNqsX1Y06liCcMJwSWnTuvDVly2RjqtEQA0wjfTys) 
 ### 🟢 VirusTotal (Scan Malwares) : [View Analyze](https://www.virustotal.com/gui/file-analysis/ODc2YmM0MTkyNTE1ZTY4MjkwN2FkZjVmMmRiMTM0NGM6MTY5ODY2NjYyOA==)
+![image](https://cdn.discordapp.com/attachments/1146354940491599933/1168518460804956170/image.png?ex=65520e9f&is=653f999f&hm=902872b46b299d6e638b7cf7a822938aebb83428fd7f02d204500563ba891dc0&)
 ## 📑 __NOTE:__ Compiled with [auto py to exe](https://github.com/brentvollebregt/auto-py-to-exe)=PyInstaller (its easy to decompile)
 ____________________________________________________________________________________________________________________________________________________________
 # __How To Use ?__
